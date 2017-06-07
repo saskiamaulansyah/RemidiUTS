@@ -20,8 +20,8 @@ Tampilan Spinner Data Diri | Tampilan Drawer Foto
 <img src="https://github.com/saskiamaulansyah/RemidiUTS/blob/master/spinner2.png" width="400" height="700"/>|<img src="https://github.com/saskiamaulansyah/RemidiUTS/blob/master/drawer1.png" width="400" height="700" />
 
 Tampilan Drawer Data Diri
------------- | -------------
-<img src="https://github.com/saskiamaulansyah/RemidiUTS/blob/master/drawer2.png" width="400" height="700" />
+<img src="https://github.com/saskiamaulansyah/RemidiUTS/blob/master/drawer2.png" width="400" height="700"/>
+
 
 <h3> Identitas Siswa : </h3>
 <ol>
